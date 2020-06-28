@@ -28,7 +28,7 @@ import org.checkerframework.checker.nullness.qual.Nullable;
  * utility methods, or {@link ListenableFutureTask}. Those APIs have less opportunity for developer
  * error. If your needs are more complex than {@code SettableFuture} supports, use {@link
  * AbstractFuture}, which offers an extensible version of the API.
- *
+ *123
  * @author Sven Mawson
  * @since 9.0 (in 1.0 as {@code ValueFuture})
  */
